@@ -1,0 +1,51 @@
+{
+  "semanas": 12,
+  "slots": [
+    "Mon08-10","Mon10-12","Mon14-16","Mon16-18",
+    "Tue08-10","Tue10-12","Tue14-16","Tue16-18",
+    "Wed08-10","Wed10-12","Wed14-16","Wed16-18",
+    "Thu08-10","Thu10-12","Thu14-16","Thu16-18",
+    "Fri08-10","Fri10-12","Fri14-16","Fri16-18"
+  ],
+  "professores": [
+    {
+      "id": 1,
+      "eixos_habilitados": ["1", "2"],
+      "custo_aula": 120,
+      "max_horas_por_semana": 6,
+      "disponibilidade_da_semana": [
+        "Mon08-10",
+        "Mon10-12",
+        "Tue08-10",
+        "Wed10-12",
+        "Thu14-16"
+      ]
+    },
+    {
+      "id": 2,
+      "eixos_habilitados": ["3", "4"],
+      "custo_aula": 100,
+      "max_horas_por_semana": 5,
+      "disponibilidade_da_semana": [
+        "Mon14-16",
+        "Tue14-16",
+        "Wed14-16",
+        "Thu10-12",
+        "Fri08-10"
+      ]
+    },
+    {
+      "id": 3,
+      "eixos_habilitados": ["2", "5"],
+      "custo_aula": 90,
+      "max_horas_por_semana": 4,
+      "disponibilidade_da_semana": [
+        "Mon16-18",
+        "Tue10-12",
+        "Wed16-18",
+        "Thu16-18",
+        "Fri10-12"
+      ]
+    }
+  ]
+}
