@@ -12,7 +12,7 @@ A solução atual implementa uma abordagem gulosa (greedy) para montar uma aloca
 ## Vídeo de explicação
 
 A explicação do algoritmo está disponível em:
-https://youtu.be/eAjglS_ksMI
+https://drive.google.com/file/d/1ccQZWIoOkFC5jEVIV9NLpkp591G36K8l/view?usp=sharing
 
 ## Estrutura do projeto
 - main.py: implementação do algoritmo de alocação.
