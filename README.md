@@ -9,6 +9,11 @@ A solução atual implementa uma abordagem gulosa (greedy) para montar uma aloca
 - Disponibilidade no slot;
 - Menor custo por aula entre os candidatos viáveis.
 
+## Vídeo de explicação
+
+A explicação do algoritmo está disponível em:
+https://youtu.be/eAjglS_ksMI
+
 ## Estrutura do projeto
 - main.py: implementação do algoritmo de alocação.
 - exemplo.json: dados de entrada (semanas, slots e professores).
